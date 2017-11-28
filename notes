@@ -1,0 +1,15 @@
+you're an idiot...
+
+model=bcm4335-B0 
+chip_version=[0x1]
+firmware_path=/system/etc/wifi/bcmdhd_sta.bin
+driver=/bus/sdio/drivers/bcmsdh_sdmmc
+nvram_path=/system/etc/wifi/nvram_net.txt_semcosh
+
+<4>[138793.361780] found wifi platform device bcmdhd_wlan
+<4>[138793.362024] unregister wifi platform drivers
+<4>[138793.362055] wifi_platform_set_power = 0
+<4>[138793.362055] ####ignore lock release,  cookie mismatch: WiFi owner ���� 
+<4>[138793.362055] check BCM4335, check_bcm4335_rev 
+<4>[138793.364405] /data/.rev file Found
+<4>[138793.374506] Found BCM4335B0
